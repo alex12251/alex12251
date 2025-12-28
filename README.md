@@ -1,28 +1,147 @@
-# 💫 About Me:
-i am currently working on an pc ai<br>i am learning data science<br>I'd like to work together with google<br>
+<!-- 🌌 Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=220&section=header&text=Chandra%20Jeet%20Singh&fontSize=42&fontColor=FFFFFF&animation=fadeIn" />
+
+---
+
+## 🧠 My Bio 
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&pause=1200&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Chandra+Jeet+Singh" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&pause=1200&color=7F00FF&center=true&vCenter=true&width=700&lines=AI+Developer+%26+Data+Science+Learner" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&pause=1200&color=00FFAB&center=true&vCenter=true&width=700&lines=Focused+on+PC-based+AI+Projects+%26+Smart+Systems" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&pause=1200&color=FFD700&center=true&vCenter=true&width=700&lines=Strong+interest+in+Java%2C+Python+and+Problem+Solving" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&pause=1200&color=FF6F61&center=true&vCenter=true&width=700&lines=Hackathon+Builder+with+a+Growth+Mindset" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&pause=1200&color=00F7FF&center=true&vCenter=true&width=700&lines=Aiming+to+Collaborate+with+Global+Tech+Leaders+like+Google" />
+</p>
+
+---
+
+## 🌐 Socials (Animated)
+
+<p align="center">
+  <a href="https://www.facebook.com/chandrajeetsingh">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=18&pause=1000&color=1877F2&center=true&vCenter=true&width=320&lines=Facebook:+Chandra+Jeet+Singh" />
+  </a>
+  <br/>
+  <a href="https://instagram.com/chandrajeet006">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=18&pause=1000&color=E4405F&center=true&vCenter=true&width=320&lines=Instagram:+@chandrajeet006" />
+  </a>
+  <br/>
+  <a href="mailto:helldreamboy@gmail.com">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=18&pause=1000&color=D14836&center=true&vCenter=true&width=320&lines=Email:+Contact+Me" />
+  </a>
+</p>
+
+---
+
+## 🚀 Active Repositories
+
+🟢 **[hackathon](https://github.com/alex12251/hackathon)**  
+🧠 Hackathon-based project focused on solving real-world problems.
+
+🟣 **[app](https://github.com/alex12251/app)**  
+🤖 Artificial Intelligence experiments and learning projects.
+
+🟡 **[java](https://github.com/alex12251/java)**  
+☕ Java practice repository with core concepts and problem-solving.
+
+---
+
+## 🧭 What I’m Doing Currently
+
+🔵 **Learning:**  
+- 📊 Data Science & Machine Learning  
+- 🤖 Artificial Intelligence fundamentals  
+- ☕ ai/ml programming 
+
+🟢 **Building:**  
+- 🖥️ PC-based AI projects  
+- 🧪 Small experiments with AI models  
+- 🚀 Hackathon-ready applications
+
+🟣 **Goals:**  
+- 🌍 Collaborate with top tech companies  
+- 🏢 Work at **Google**  
+- 📈 Grow as an AI & Software Engineer
+
+---
+
+## 💬 Reader Comments & Feedback
+
+I’d love to hear your thoughts, suggestions, or advice! 😊  
+
+📝 **Leave a comment here:**  
+👉 [Profile Feedback](https://github.com/alex12251/alex12251/issues/new?title=Profile%20Feedback&body=Hi%20Chandra%20Jeet%20Singh%2C%0A%0AI%20visited%20your%20GitHub%20profile%20and%20wanted%20to%20share%20this%3A)
+
+💡 You can:  
+- Share feedback  
+- Suggest improvements  
+- Ask questions  
+- Say hello 👋  
+
+⭐ If you like my work, don’t forget to **star a repo**!
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alex12251&show_icons=true&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=alex12251&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alex12251&theme=tokyo-night&hide_border=true" />
+
+---
 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/chandrajeetsingh) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chandrajeet006) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:helldreamboy@gmail.com) 
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=flat&logo=javafx&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=flat&logo=gunicorn&logoColor=white) ![Apache Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=flat&logo=Apache%20Ant&logoColor=white) ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=flat&logo=Apache%20Flink&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=flat&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Realm](https://img.shields.io/badge/Realm-39477F?style=flat&logo=realm&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=flat&logo=krita&logoColor=EEF37B) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Clip Studio Paint](https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?style=flat&logo=ClipStudioPaint&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=alex12251&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=alex12251&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alex12251&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alex12251&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://github-profile-trophy.vercel.app/?username=alex12251&theme=radical&no-bg=true&margin-w=12" />
 
-### 🔝 Top Contributed Repo
-![](username=alex12251&limit=5&theme=dark&combine_all_yearly_contributions=true)
+---
 
---- https://github.com/alex12251/practice-java
+## ✍️ Random Dev Quote
 
-[![](https://visitcount.itsvg.in/api?id=alex12251&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+<!-- 🌊 Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00F7FF&height=120&section=footer" />
